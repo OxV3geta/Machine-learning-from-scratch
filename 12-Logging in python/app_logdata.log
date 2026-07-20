@@ -1,0 +1,82 @@
+26-07-20 16:19:44 - root - DEBUG - This is a debug message
+26-07-20 16:19:44 - root - INFO - This is an info message
+26-07-20 16:19:44 - root - WARNING - This is a warning message
+26-07-20 16:19:44 - root - ERROR - This is an error message
+26-07-20 16:19:44 - root - CRITICAL - This is a critical message.........
+26-07-20 16:27:35 - root - DEBUG - This is a debug message
+26-07-20 16:27:35 - root - INFO - This is an info message
+26-07-20 16:27:35 - root - WARNING - This is a warning message
+26-07-20 16:27:35 - root - ERROR - This is an error message
+26-07-20 16:27:35 - root - CRITICAL - This is a critical message.........
+26-07-20 16:55:25 - module1 - DEBUG - This is debug message for module1
+26-07-20 16:55:25 - module2 - WARNING - This is a warning message for module2
+26-07-20 16:55:26 - module1 - DEBUG - This is debug message for module1
+26-07-20 16:55:26 - module2 - WARNING - This is a warning message for module2
+26-07-20 16:55:26 - module1 - DEBUG - This is debug message for module1
+26-07-20 16:55:26 - module2 - WARNING - This is a warning message for module2
+26-07-20 16:55:26 - module1 - DEBUG - This is debug message for module1
+26-07-20 16:55:26 - module2 - WARNING - This is a warning message for module2
+26-07-20 16:55:27 - module1 - DEBUG - This is debug message for module1
+26-07-20 16:55:27 - module2 - WARNING - This is a warning message for module2
+26-07-20 16:55:52 - module1 - DEBUG - This is debug message for module1
+26-07-20 16:55:52 - module2 - WARNING - This is a warning message for module2
+26-07-20 16:55:53 - module1 - DEBUG - This is debug message for module1
+26-07-20 16:55:53 - module2 - WARNING - This is a warning message for module2
+26-07-20 16:55:53 - module1 - DEBUG - This is debug message for module1
+26-07-20 16:55:53 - module2 - WARNING - This is a warning message for module2
+26-07-20 16:55:53 - module1 - DEBUG - This is debug message for module1
+26-07-20 16:55:53 - module2 - WARNING - This is a warning message for module2
+26-07-20 16:55:53 - module1 - DEBUG - This is debug message for module1
+26-07-20 16:55:53 - module2 - WARNING - This is a warning message for module2
+26-07-20 16:55:54 - module1 - DEBUG - This is debug message for module1
+26-07-20 16:55:54 - module2 - WARNING - This is a warning message for module2
+26-07-20 16:55:54 - module1 - DEBUG - This is debug message for module1
+26-07-20 16:55:54 - module2 - WARNING - This is a warning message for module2
+26-07-20 16:55:54 - module1 - DEBUG - This is debug message for module1
+26-07-20 16:55:54 - module2 - WARNING - This is a warning message for module2
+26-07-20 16:55:54 - module1 - DEBUG - This is debug message for module1
+26-07-20 16:55:54 - module2 - WARNING - This is a warning message for module2
+26-07-20 16:55:54 - module1 - DEBUG - This is debug message for module1
+26-07-20 16:55:54 - module2 - WARNING - This is a warning message for module2
+26-07-20 16:55:54 - module1 - DEBUG - This is debug message for module1
+26-07-20 16:55:54 - module2 - WARNING - This is a warning message for module2
+26-07-20 16:55:54 - module1 - DEBUG - This is debug message for module1
+26-07-20 16:55:54 - module2 - WARNING - This is a warning message for module2
+26-07-20 16:55:55 - module1 - DEBUG - This is debug message for module1
+26-07-20 16:55:55 - module2 - WARNING - This is a warning message for module2
+26-07-20 16:55:55 - module1 - DEBUG - This is debug message for module1
+26-07-20 16:55:55 - module2 - WARNING - This is a warning message for module2
+26-07-20 16:55:55 - module1 - DEBUG - This is debug message for module1
+26-07-20 16:55:55 - module2 - WARNING - This is a warning message for module2
+26-07-20 16:55:55 - module1 - DEBUG - This is debug message for module1
+26-07-20 16:55:55 - module2 - WARNING - This is a warning message for module2
+26-07-20 16:55:55 - module1 - DEBUG - This is debug message for module1
+26-07-20 16:55:55 - module2 - WARNING - This is a warning message for module2
+26-07-20 16:55:55 - module1 - DEBUG - This is debug message for module1
+26-07-20 16:55:55 - module2 - WARNING - This is a warning message for module2
+26-07-20 16:55:56 - module1 - DEBUG - This is debug message for module1
+26-07-20 16:55:56 - module2 - WARNING - This is a warning message for module2
+26-07-20 16:56:28 - module1 - DEBUG - This is debug message for module1
+26-07-20 16:56:28 - module2 - WARNING - This is a warning message for module2
+26-07-20 16:56:28 - module2 - ERROR - This is an error message
+26-07-20 18:38:01 - root - DEBUG - Debugging
+26-07-20 18:38:01 - root - ERROR - error alert
+26-07-20 18:38:01 - root - WARNING - oopssss
+26-07-20 18:38:02 - root - DEBUG - Debugging
+26-07-20 18:38:02 - root - ERROR - error alert
+26-07-20 18:38:02 - root - WARNING - oopssss
+26-07-20 18:38:07 - root - DEBUG - This is a message
+26-07-20 18:38:07 - root - ERROR - This is a error
+26-07-20 18:38:07 - root - WARNING - This is a warning
+26-07-20 18:38:07 - root - INFO - This is an info message
+26-07-20 18:38:07 - root - CRITICAL - This is a critical message
+26-07-20 18:38:08 - root - DEBUG - This is a message
+26-07-20 18:38:08 - root - ERROR - This is a error
+26-07-20 18:38:08 - root - WARNING - This is a warning
+26-07-20 18:38:08 - root - INFO - This is an info message
+26-07-20 18:38:08 - root - CRITICAL - This is a critical message
+26-07-20 18:38:08 - root - DEBUG - This is a message
+26-07-20 18:38:08 - root - ERROR - This is a error
+26-07-20 18:38:08 - root - WARNING - This is a warning
+26-07-20 18:38:08 - root - INFO - This is an info message
+26-07-20 18:38:08 - root - CRITICAL - This is a critical message
