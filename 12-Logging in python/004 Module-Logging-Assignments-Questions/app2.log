@@ -248,3 +248,13 @@ DEBUG:rotating_logger:This is debug message number 96
 DEBUG:rotating_logger:This is debug message number 97
 DEBUG:rotating_logger:This is debug message number 98
 DEBUG:rotating_logger:This is debug message number 99
+DEBUG:root:This is a debug message
+INFO:root:This is an info message
+WARNING:root:This is a warning message
+ERROR:root:This is an error message
+CRITICAL:root:This is a critical message
+DEBUG:context_logger:This is a debug message
+INFO:context_logger:This is an info message
+WARNING:context_logger:This is a warning message
+ERROR:context_logger:This is an error message
+CRITICAL:context_logger:This is a critical message

@@ -3,109 +3,34 @@ INFO:root:This is an info message
 WARNING:root:This is a warning message
 ERROR:root:This is an error message
 CRITICAL:root:This is a critical message
-DEBUG:Rotating_logger:this is a debug message number0
-DEBUG:Rotating_logger:this is a debug message number1
-DEBUG:Rotating_logger:this is a debug message number2
-DEBUG:Rotating_logger:this is a debug message number3
-DEBUG:Rotating_logger:this is a debug message number4
-DEBUG:Rotating_logger:this is a debug message number5
-DEBUG:Rotating_logger:this is a debug message number6
-DEBUG:Rotating_logger:this is a debug message number7
-DEBUG:Rotating_logger:this is a debug message number8
-DEBUG:Rotating_logger:this is a debug message number9
-DEBUG:Rotating_logger:this is a debug message number10
-DEBUG:Rotating_logger:this is a debug message number11
-DEBUG:Rotating_logger:this is a debug message number12
-DEBUG:Rotating_logger:this is a debug message number13
-DEBUG:Rotating_logger:this is a debug message number14
-DEBUG:Rotating_logger:this is a debug message number15
-DEBUG:Rotating_logger:this is a debug message number16
-DEBUG:Rotating_logger:this is a debug message number17
-DEBUG:Rotating_logger:this is a debug message number18
-DEBUG:Rotating_logger:this is a debug message number19
-DEBUG:Rotating_logger:this is a debug message number20
-DEBUG:Rotating_logger:this is a debug message number21
-DEBUG:Rotating_logger:this is a debug message number22
-DEBUG:Rotating_logger:this is a debug message number23
-DEBUG:Rotating_logger:this is a debug message number24
-DEBUG:Rotating_logger:this is a debug message number25
-DEBUG:Rotating_logger:this is a debug message number26
-DEBUG:Rotating_logger:this is a debug message number27
-DEBUG:Rotating_logger:this is a debug message number28
-DEBUG:Rotating_logger:this is a debug message number29
-DEBUG:Rotating_logger:this is a debug message number30
-DEBUG:Rotating_logger:this is a debug message number31
-DEBUG:Rotating_logger:this is a debug message number32
-DEBUG:Rotating_logger:this is a debug message number33
-DEBUG:Rotating_logger:this is a debug message number34
-DEBUG:Rotating_logger:this is a debug message number35
-DEBUG:Rotating_logger:this is a debug message number36
-DEBUG:Rotating_logger:this is a debug message number37
-DEBUG:Rotating_logger:this is a debug message number38
-DEBUG:Rotating_logger:this is a debug message number39
-DEBUG:Rotating_logger:this is a debug message number40
-DEBUG:Rotating_logger:this is a debug message number41
-DEBUG:Rotating_logger:this is a debug message number42
-DEBUG:Rotating_logger:this is a debug message number43
-DEBUG:Rotating_logger:this is a debug message number44
-DEBUG:Rotating_logger:this is a debug message number45
-DEBUG:Rotating_logger:this is a debug message number46
-DEBUG:Rotating_logger:this is a debug message number47
-DEBUG:Rotating_logger:this is a debug message number48
-DEBUG:Rotating_logger:this is a debug message number49
-DEBUG:Rotating_logger:this is a debug message number50
-DEBUG:Rotating_logger:this is a debug message number51
-DEBUG:Rotating_logger:this is a debug message number52
-DEBUG:Rotating_logger:this is a debug message number53
-DEBUG:Rotating_logger:this is a debug message number54
-DEBUG:Rotating_logger:this is a debug message number55
-DEBUG:Rotating_logger:this is a debug message number56
-DEBUG:Rotating_logger:this is a debug message number57
-DEBUG:Rotating_logger:this is a debug message number58
-DEBUG:Rotating_logger:this is a debug message number59
-DEBUG:Rotating_logger:this is a debug message number60
-DEBUG:Rotating_logger:this is a debug message number61
-DEBUG:Rotating_logger:this is a debug message number62
-DEBUG:Rotating_logger:this is a debug message number63
-DEBUG:Rotating_logger:this is a debug message number64
-DEBUG:Rotating_logger:this is a debug message number65
-DEBUG:Rotating_logger:this is a debug message number66
-DEBUG:Rotating_logger:this is a debug message number67
-DEBUG:Rotating_logger:this is a debug message number68
-DEBUG:Rotating_logger:this is a debug message number69
-DEBUG:Rotating_logger:this is a debug message number70
-DEBUG:Rotating_logger:this is a debug message number71
-DEBUG:Rotating_logger:this is a debug message number72
-DEBUG:Rotating_logger:this is a debug message number73
-DEBUG:Rotating_logger:this is a debug message number74
-DEBUG:Rotating_logger:this is a debug message number75
-DEBUG:Rotating_logger:this is a debug message number76
-DEBUG:Rotating_logger:this is a debug message number77
-DEBUG:Rotating_logger:this is a debug message number78
-DEBUG:Rotating_logger:this is a debug message number79
-DEBUG:Rotating_logger:this is a debug message number80
-DEBUG:Rotating_logger:this is a debug message number81
-DEBUG:Rotating_logger:this is a debug message number82
-DEBUG:Rotating_logger:this is a debug message number83
-DEBUG:Rotating_logger:this is a debug message number84
-DEBUG:Rotating_logger:this is a debug message number85
-DEBUG:Rotating_logger:this is a debug message number86
-DEBUG:Rotating_logger:this is a debug message number87
-DEBUG:Rotating_logger:this is a debug message number88
-DEBUG:Rotating_logger:this is a debug message number89
-DEBUG:Rotating_logger:this is a debug message number90
-DEBUG:Rotating_logger:this is a debug message number91
-DEBUG:Rotating_logger:this is a debug message number92
-DEBUG:Rotating_logger:this is a debug message number93
-DEBUG:Rotating_logger:this is a debug message number94
-DEBUG:Rotating_logger:this is a debug message number95
-DEBUG:Rotating_logger:this is a debug message number96
-DEBUG:Rotating_logger:this is a debug message number97
-DEBUG:Rotating_logger:this is a debug message number98
-DEBUG:Rotating_logger:this is a debug message number99
 ERROR:exception_logger:An exception occurred!
 Traceback (most recent call last):
-  File "/tmp/ipykernel_96202/2508198153.py", line 12, in log_exception
+  File "/tmp/ipykernel_45146/2508198153.py", line 12, in log_exception
     1/0
     ~^~
 ZeroDivisionError: division by zero
+DEBUG:context_logger:This is a debug message
+INFO:context_logger:This is an info message
+WARNING:context_logger:This is a warning message
+ERROR:context_logger:This is an error message
+CRITICAL:context_logger:This is a critical message
+DEBUG:context_logger:This is a debug message
+INFO:context_logger:This is an info message
+WARNING:context_logger:This is a warning message
+ERROR:context_logger:This is an error message
+CRITICAL:context_logger:This is a critical message
+DEBUG:context_logger:This is a debug message
+INFO:context_logger:This is an info message
+WARNING:context_logger:This is a warning message
+ERROR:context_logger:This is an error message
+CRITICAL:context_logger:This is a critical message
+DEBUG:context_logger:This is a debug message
+INFO:context_logger:This is an info message
+WARNING:context_logger:This is a warning message
+ERROR:context_logger:This is an error message
+CRITICAL:context_logger:This is a critical message
+DEBUG:additional_context_logger:This is a debug message
+INFO:additional_context_logger:This is an info message
+WARNING:additional_context_logger:This is a warning message
+ERROR:additional_context_logger:This is an error message
+CRITICAL:additional_context_logger:This is a critical message

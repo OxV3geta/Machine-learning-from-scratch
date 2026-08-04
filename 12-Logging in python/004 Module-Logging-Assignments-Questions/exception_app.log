@@ -4,3 +4,9 @@ Traceback (most recent call last):
     1/0
     ~^~
 ZeroDivisionError: division by zero
+An exception occurred!
+Traceback (most recent call last):
+  File "/tmp/ipykernel_45146/2508198153.py", line 12, in log_exception
+    1/0
+    ~^~
+ZeroDivisionError: division by zero
