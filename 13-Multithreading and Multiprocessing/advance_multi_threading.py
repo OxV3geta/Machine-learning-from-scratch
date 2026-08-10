@@ -8,7 +8,7 @@ def print_number(number):
     return f"Number:{number}"
 
 numbers = [1,2,3,4,5,6,7,8,9,0,1,2,3]
-
+## execute the code using 3 process
 with ThreadPoolExecutor(max_workers=3) as executor:
     results = executor.map(print_number,numbers)
     
