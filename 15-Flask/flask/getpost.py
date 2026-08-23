@@ -23,6 +23,12 @@ def form():
         return f'Hello {name}.'
     return render_template('form.html')
 
+@app.route("/submit",methods=['GET','POST'])
+def submit():
+    if request.method == 'POST': # this is condition if user give any input in the form and something then it'll be 'POST' method
+        name = request.form['name'] ## request the name form the 'form.html' and with using the id:name.
+        return f'Hello {name}.'
+    return render_template('form.html')
 
 if __name__ == '__main__':
     app.run(debug=True)
